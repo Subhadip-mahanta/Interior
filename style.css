@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+   background-color: rgb(44, 43, 43);
+}
+
+.headerr{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+
+ 
+
+}
+.main{
+    /* background-color: blue; */
+    width: 100px;
+}
+.main img{
+    height: 50px;
+    border-radius: 200px;
+}
+
+#imag2{
+    width: 100%;
+    height: 700px;
+
+}
+
+#form{
+     background-color: rgb(75, 72, 72);
+    padding: 40px;
+    width: 400px;
+    display: block;
+    margin: 0px auto;
+    color: white;
+    
+    }
+    #form div{
+        height: 50px;
+    }
+    #form div input{
+        width: 80%;
+        margin-left: 50px;
+    }
+    #submit{
+        background-color: deepskyblue;
+        margin-left: 40px;
+    }
+    #footer{
+        background-color: black;
+        color: white;
+        
+    }
+   
